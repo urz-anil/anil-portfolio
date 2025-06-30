@@ -1,4 +1,4 @@
-# Prathyaksh Malligari's Portfolio
+# Anil Rachamalla's Portfolio
 
 A personal portfolio website built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui.
 
