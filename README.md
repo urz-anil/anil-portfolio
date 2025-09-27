@@ -2,7 +2,7 @@
 # anil-portfolio
 My Portfolio
 =======
-# Prathyaksh Malligari's Portfolio
+# ANIL RACHAMALLA's Portfolio
 
 A personal portfolio website built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui.
 
