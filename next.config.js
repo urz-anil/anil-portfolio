@@ -23,3 +23,7 @@ const nextConfig = {
 };
 
 module.exports = nextConfig; 
+
+
+
+/*code*/
